@@ -1,4 +1,4 @@
-<img src="img.png" alt='imagem de capa' style="width:100%; height: 850px;">
+<img src="img.png" alt='imagem de capa' style="width:850px; height: 850px;">
 # pynotepad ( editor muito simples )
 
 por cli, basta informar um arquivo que então, será criado uma janela com 
